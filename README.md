@@ -8,7 +8,7 @@
 
 ---
 
-## Sobre o Projeto
+## 🚀 Sobre o Projeto
 
 Mais um projeto prático realizado no curso da danki, no qual foi aprendindo a manpular o menu mobile com jQuery.
 
