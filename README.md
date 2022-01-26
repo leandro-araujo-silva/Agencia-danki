@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_img/agencia.gif" alt="Gif do projeto" height="250">
+  <img src="_img/agencia.gif" alt="Gif do projeto" height="350">
 </div>
 
 ---
